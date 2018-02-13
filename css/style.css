@@ -4121,6 +4121,7 @@ form .error {
         margin-right: 10px;
         font-size: 18px;
     }
+
 /* button to the top */
 #myBtn {
     display: none;
@@ -4136,6 +4137,7 @@ form .error {
     cursor: pointer;
     padding: 15px;
     border-radius: 4px;
+    
   }
 
 #myBtn:hover {
