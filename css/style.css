@@ -4143,3 +4143,6 @@ form .error {
 #myBtn:hover {
     background-color: #555;
   }   
+#testimonials {
+    height: 800px;
+}
