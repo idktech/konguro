@@ -4123,7 +4123,7 @@ form .error {
     }
 
 /* button to the top */
-/* #myBtn {
+#myBtn {
     display: none;
     position: fixed;
     bottom: 20px;
@@ -4142,7 +4142,7 @@ form .error {
 
 #myBtn:hover {
     background-color: #555;
-  }    */
+  }   
 #testimonials {
     height: 800px;
 }
